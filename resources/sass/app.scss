@@ -1,0 +1,17 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+
+$theme-colors: (
+    "primary": #990033,
+);
+
+.nav-link {
+    color: #990033;
+}
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
